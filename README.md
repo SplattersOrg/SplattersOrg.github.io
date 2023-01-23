@@ -1,4 +1,2 @@
 # SplattersOrg.github.io
-
-
-## test
+https://splattersorg.github.io/about.html
